@@ -13,3 +13,6 @@ How to start Coding:
 1. Create a branch, do all work/testing on that
 2. Run your app using the emulator
 3. There is no need to make a commit since its just for testing
+
+How to create a branch off of master:
+1. 
