@@ -6,7 +6,7 @@ Download android studio: https://developer.android.com/studio/?gclsrc=aw.ds&&gcl
 Set up emulator: https://developer.android.com/studio/run/managing-avds#createavd
 
 First, access this repo from your local android studio:
-1. (On the toolbar)VCS > Git > Clone
+1. (On the toolbar)File > New > Project from version control
 2. Paste this link in the "URL" box(make sure the "Version control" is Git): https://github.com/apcs-dweebs/Test_App.git
 
 How to start Coding:
