@@ -29,6 +29,6 @@ How to create a branch off of master:
 
 ![image](https://user-images.githubusercontent.com/51178331/112691163-45d5c780-8e53-11eb-86c7-f71e2dbb0911.png)
 
-5. Do all code on this branch
+5. Do all code on this branch, can use this vid tutorial: https://www.youtube.com/watch?v=tZvjSl9dswg
 
 
